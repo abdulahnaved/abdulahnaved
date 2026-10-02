@@ -1,63 +1,35 @@
-# Hi, I'm Abdullah 👋
+# Abdullah Naveed
 
-🎓 Final-year BSc Computer Science student at **ELTE (Eötvös Loránd University)**  
-🧑‍🏫 Teaching Assistant for Algorithms, Discrete Mathematics, and Cryptography  
-⚙️ Interested in **automation, systems reliability**, and the intersection of **machine learning & cybersecurity**
+M.Sc. Computer Science at TU Hamburg. Previously B.Sc. at ELTE Budapest.
 
----
+I work on machine learning for medical imaging, mostly generative models
+standing in for expensive physics simulations.
 
-## 🧠 About Me
-- Teaching Assistant at ELTE Faculty of Informatics  
-- Experience building **automated grading frameworks** using Python, shell scripting, and Docker  
-- Comfortable working close to theory (algorithms, proofs) and practice (systems, tooling)
-- Currently focused on strengthening **automation pipelines, DevOps-style workflows**, and academic CS foundations
+## Publications
 
----
+**Cardiac SPECT Reconstruction — Take one, perfusion.**
+P. Benyovszki, A. Naveed, Á. I. Szűcs, B. Kári, O. Pártos. MICAD 2026, Springer.
 
-## 🛠️ Technologies & Tools
-**Languages:**  
-- Python, Java, C / C++, Bash
+## Projects
 
-**Systems & Tools:**  
-- Linux, Docker, Git, Shell scripting  
-- LaTeX (academic writing & course material preparation)
+**[SPECT](https://github.com/abdulahnaved/SPECT)** — A learned surrogate for
+gamma-photon transport through a multi-pinhole collimator. Four-class routing
+classifier plus class-specific conditional flow matching, trained on GATE/Geant4
+Monte Carlo data. PyTorch.
 
-**CS Areas:**  
-- Algorithms & Data Structures  
-- Discrete Mathematics  
-- Cryptography & Security  
-- Automation & Evaluation Systems
+**[outliner](https://github.com/abdulahnaved/outliner)** — Web application that
+scans sites and scores their security configuration from HTTP headers and
+responses. Next.js, FastAPI, PostgreSQL, deployed with Docker Compose on AWS.
 
----
+**[sage-work](https://github.com/abdulahnaved/sage-work)** — Docker-based
+automated grading system for Python notebooks, built on SageMath and used in a
+course at ELTE.
 
-## 📚 Teaching & Academic Work
-- Automated exam grading framework for *Applications of Discrete Models*
-- Assignment grading and weekly consultations for *Algorithms & Data Structures*
-- Exam grading and LaTeX-based proofreading for *Discrete Mathematics*
-- Assisting lecturer with exams and course material for *Cryptography & Security*
+## Tools
 
----
+Python, C, Java, TypeScript, SQL, Bash · PyTorch, NumPy, scikit-learn ·
+Docker, Git, Linux, AWS · GATE/Geant4
 
-## 🚀 Selected Projects
+## Contact
 
-
-- **Yogi Bear Game (Java)**  
-  Built a 2-D top-down simulation in Java Swing featuring dynamic environments and difficulty scaling.
-
-- **Railways Connectivity Game (JavaScript)**  
-  Tile-based puzzle game focused on constraints and valid path construction.
-
-- **Auto-Grader System**  
-  Docker-based automated grading system for Python notebooks using SageMath.
-
-- **Microwave Link Simulation Platform**  
-  Designed a C-based network link simulator integrated with a Java Spring Boot API.
-
----
-
-## 🌍 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/abdulahnaved](https://linkedin.com/in/abdulahnaved)
-
----
-
-⭐ Always building, always learning.
+[LinkedIn](https://linkedin.com/in/abdulahnaved)
