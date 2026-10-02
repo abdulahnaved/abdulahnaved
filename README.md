@@ -7,7 +7,7 @@ standing in for expensive physics simulations.
 
 ## Publications
 
-**Cardiac SPECT Reconstruction — Take one, perfusion.**
+**Cardiac SPECT Reconstruction - Take one, perfusion.**
 P. Benyovszki, A. Naveed, Á. I. Szűcs, B. Kári, O. Pártos. MICAD 2026, Springer.
 
 ## Projects
